@@ -14,3 +14,8 @@ El yoga es una disciplina que combina posturas (asanas), respiración controlada
 - Fomenta la relajación y la paz mental.
 - Mejora la postura y la alineación corporal.
 - Ayuda a aliviar dolores musculares y articulares.
+
+## Consejos 
+- Practica con regularidad para ver mejoras.
+- Escoge clases o estilos que se adapten a tu nivel de habilidad.
+- Escucha a tu cuerpo, no fuerces ninguna postura.
