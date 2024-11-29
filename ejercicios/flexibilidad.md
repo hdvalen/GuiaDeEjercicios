@@ -7,3 +7,9 @@ El entrenamiento de flexibilidad se centra en mejorar el rango de movimiento de 
 -Realiza estiramientos dinámicos antes de hacer ejercicio.
 -Haz estiramientos estáticos al final de tu entrenamiento, manteniendo cada postura durante 20-30 segundos.
 -Incluye estiramientos para todo el cuerpo.
+
+## Beneficios
+-Mejora la movilidad y la postura.
+-Ayuda a reducir la rigidez muscular.
+-Aumenta la circulación sanguínea.
+-Reduce el riesgo de lesiones.
