@@ -13,3 +13,9 @@ El entrenamiento de flexibilidad se centra en mejorar el rango de movimiento de 
 - Ayuda a reducir la rigidez muscular.
 - Aumenta la circulación sanguínea.
 - Reduce el riesgo de lesiones.
+
+## Consejos  
+- No rebotes al estirarte, ya que esto puede causar lesiones.
+- Sé constante en la práctica para ver mejoras.
+- Estira siempre después de calentar para obtener mejores resultados.
+
