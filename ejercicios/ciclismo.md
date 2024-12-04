@@ -12,3 +12,8 @@ El ciclismo es una actividad cardiovascular que se realiza sobre una bicicleta, 
 - Fortalece las piernas, glúteos y caderas.
 - Es de bajo impacto en las articulaciones.
 - Ayuda a la quema de grasa y mejora la resistencia.
+# Consejos 
+- Varía tu ruta si montas al aire libre para mantener el interés.
+- Realiza un buen calentamiento y estiramiento antes y después del ciclismo.
+- Mantén una postura adecuada durante el pedaleo para evitar tensiones.
+
